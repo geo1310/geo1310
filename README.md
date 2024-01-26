@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+Passionné par la programmation et la technologie depuis le plus jeune âge. Je suis actuellement
+étudiant à plein temps dans le développement. Je cherche à acquérir de l'expérience et de la pratique afin de valider au mieux mes compétences, de les partager et d'en acquérir de nouvelles.
+Mon premier cheminement dans le développement Web a été effectué grâce à Openclassrooms d'abord en autodidacte puis avec leur parcours Développeur Web me permettant de faire mes premiers pas 
+dans ce monde fabuleux qu'est Internet et la création de contenu.
+J'effectue actuellement la formation Développeur d'Application Python et parfaire mes compétences en algorithmie et résolution de problèmes.
+
+> Vis comme si tu devais mourir demain. Apprends comme si tu devais vivre toujours - Gandhi
+
 <!--
 **geo1310/geo1310** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
